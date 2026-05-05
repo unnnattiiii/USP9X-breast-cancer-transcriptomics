@@ -106,5 +106,5 @@ Raw TCGA-BRCA counts are not included in this repository due to file size constr
 
 ## Author
 Unnati Moradiya
-MS Bioinformatics, Northeastern University
+MS Bioinformatics,
 Northeastern University | Sept 2025 – Dec 2025
