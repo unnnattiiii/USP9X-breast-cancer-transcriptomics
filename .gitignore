@@ -1,10 +1,3 @@
-# Large raw data files - download from TCGA portal
 data/TCGA-BRCA.star_counts.tsv.gz
-data/TCGA-BRCA.clinical.tsv.gz
-
-# Temporary files
 .DS_Store
-*.tmp
-Rplots.pdf
-.Rhistory
-.RData
+**/.DS_Store
